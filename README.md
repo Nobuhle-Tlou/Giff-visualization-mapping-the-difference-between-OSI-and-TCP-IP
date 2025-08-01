@@ -1,0 +1,2 @@
+# Giff-visualization-mapping-the-difference-between-OSI-and-TCP-IP
+Open system interconnection(OSI)is a 7 layered theoretical model that helps in understanding network communication. While a Transmission Control protocol/Internet Protocol (TCP/IP) is a 4 layered practical model used for internet connection.This code that create a giff showing which matches an OSI layer to it's corresponding TCP/IP layer.
